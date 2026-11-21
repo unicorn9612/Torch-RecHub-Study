@@ -1,0 +1,6 @@
+*.pth
+*.tsv
+*.txt
+data/
+__pycache__/
+.DS_Store
